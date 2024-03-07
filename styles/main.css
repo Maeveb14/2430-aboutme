@@ -33,9 +33,12 @@ h1 {
 }
 
 h2 {
+    font-weight: bold;
+    font-size: 1.6em;
     border-bottom: 0.1em solid #66D7D1;
-    padding: 0.25em;
+    padding: 0.75em;
     margin: 1.6em 0;
+    text-shadow: 0.2 0.04 deeppink;
 }
 
 section p {
