@@ -33,25 +33,24 @@ h1 {
 }
 
 h2 {
-    border-bottom: 0.1em solid #66D7D1;
-    padding: 0.25em;
-    margin: 1.6em 0;
+    font-style: italic;
+    border-bottom: 0.1em solid #266663;
+    padding: 0.5em;
+    margin: 1.2em 0;
+    color: 403D58;
 }
-
 section p {
     text-indent: 2.8em;
 }
-
 .project {
-    background-color: #403D58;
+    background-color: #1a482c;
     color: #F2EFEA;
     padding: 0.5em 2em;
     border-radius: 0.5em;
     margin-bottom: 1.5em;
 }
-
 .project h3 {
-    color: #DBD563;
+    color: #ae7dde;
     margin-top: 1rem;
     margin-left: 2em;
     margin-right: 2em;
